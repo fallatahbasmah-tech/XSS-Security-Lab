@@ -62,3 +62,7 @@ To help prevent reflected XSS vulnerabilities, developers should:
 ## Disclaimer
 
 This project was completed in a legal, controlled educational environment provided by PortSwigger Web Security Academy.
+
+## Lab Completion Screenshot 🏆
+
+![XSS Lab Successfully Solved](Screenshot%202026-11-17%20193456.png)
